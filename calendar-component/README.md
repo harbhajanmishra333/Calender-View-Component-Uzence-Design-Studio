@@ -1,7 +1,7 @@
 # Calendar View Component
 
 ## 🚀 Live Storybook
-[Add deployed Storybook URL here]
+[View in Chromatic](https://main--65e6d2d5c1e7d9e6fd1d8b0e-chromatic.com)
 
 ## ▶️ Installation
 ```bash
